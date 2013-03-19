@@ -28,7 +28,7 @@ class PlaylistWidgetView extends \WP_Widget {
 
   }
 
-  public function form($new_instance, $old_instance) {
+  public function form($new_instance, $old_instance = NULL) {
 
   }
 
